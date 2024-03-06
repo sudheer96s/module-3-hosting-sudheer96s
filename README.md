@@ -1,22 +1,13 @@
-# Create 3 static webpages
+# Host your static webpages using Github Pages.
 
 ## Steps 
 
 ### #1
-Take any website that you like. Select 3 pages from the website.  
+Copy 3 or more static web pages that you created in 2nd assignment to `docs` folder.
 
 ### #2
-Create 3 static web pages and save them in these files under `docs` folder.  
-1. index.html
-2. page02.html
-3. page03.html
-
-### #3
-Connect each of 3 pages from the other two pages. i.e. create links to navigate between them.
-
-### #4
 Using `GitHub Pages` publish the website and use `docs` folder to be used for publishing the website.  
 
-### #5
-You can do more pages if you are done with the first 3 pages.  
+Select `docs` folder as shown in the image, in GitHub pages.
+![](./select-docs-folder.png) 
 
